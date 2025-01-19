@@ -9,7 +9,7 @@
 
 > ## Projects
 > ### 1. [**Financial Analysis**]
-- [**_Focus_**]:  
+- [**_Description_**]:  
 - [**_.Pbix file_**]: 
 - [**_Dataset_**]: 
 
@@ -20,7 +20,7 @@
 - Browse through the project folders.
 - Each folder contains:
   - Power BI (.pbix) files.
-  - Dataset information (if applicable).
+  - Dataset information 
   - A brief description of the project.
 
 > ## Tools Used
