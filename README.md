@@ -1,2 +1,30 @@
-# PowerBI_Portfolio
-About Welcome to my Power BI portfolio repository! 
+> # Power BI Portfolio
+
+> ## Highlights
+
+- **Interactive Dashboards**: Engaging and user-friendly dashboards for better decision-making.
+- **Diverse Use Cases**: Projects span different industries and data scenarios.
+- **Data-Driven Insights**: Focused on extracting actionable insights from data.
+
+
+> ## Projects
+> ### 1. [**Financial Analysis**]
+- [**_Focus_**]:  
+- [**_.Pbix file_**]: 
+- [**_Dataset_**]: 
+
+---
+
+> ## How to Explore
+
+- Browse through the project folders.
+- Each folder contains:
+  - Power BI (.pbix) files.
+  - Dataset information (if applicable).
+  - A brief description of the project.
+
+> ## Tools Used
+
+- **Power BI**: For building and designing dashboards.
+- **Excel/CSV**: For data preparation.
+- **SQL Server**: For live data connection through on premise gateaway
