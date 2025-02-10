@@ -1,19 +1,9 @@
 > # Power BI Portfolio
 
 > ## Highlights
-
 - **Interactive Dashboards**: Engaging and user-friendly dashboards for better decision-making.
 - **Diverse Use Cases**: Projects span different industries and data scenarios.
 - **Data-Driven Insights**: Focused on extracting actionable insights from data.
-
-
-> ## Projects
-> ### 1. [**Financial Analysis**]
-- [**_Description_**]:  
-- [**_.Pbix file_**]: 
-- [**_Dataset_**]: 
-
----
 
 > ## How to Explore
 
